@@ -42,9 +42,9 @@
             key: "55b13c30d5ce11eb83dacb6c77736f83", // A changer et à mettre en variable d'environnement
             url: "",
             position: "center",
-            sandbox: "true",
-            callback: "",
-            data: "Frais de dépot oops",
+            sandbox: "true", // à changer en prod
+            callback: "", // tu peux rediriger juste après ta requete ajax
+            data: "Frais de dépot oops", // Motif de paiement
 
         })
     })
